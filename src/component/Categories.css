@@ -1,0 +1,54 @@
+h1 {
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+line-height: 59px;
+text-align: center;
+}
+
+.list {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+
+.list__button {
+	margin: 10px 20px;
+}
+
+
+.list__button-text {
+	display: inline-block;
+	vertical-align: top;
+	width: 150px;
+	height: 50px;
+	padding: 12px 35px;
+	font-size: 16px;
+	text-decoration: none;
+	color: #1C1C39;
+	border-radius: 30px;
+	border: none;
+	font-weight: 700;
+	background: #fff;
+	box-shadow: 0px 22px 80px rgba(72, 70, 106, 0.07), 0px 2.75474px 10.0172px rgba(72, 70, 106, 0.035);
+}
+
+.list__button-text:hover {
+	background-color: #422ED4;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

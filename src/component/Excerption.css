@@ -1,0 +1,33 @@
+.excerption {
+margin-top: 180px;
+margin-bottom: 150px;
+background: #422ED4;
+left: 160px;
+top: 614px;
+color:#fff;
+box-shadow: 0px 100px 80px rgba(80, 76, 103, 0.07), 0px 0px 10.0172px rgba(80, 76, 103, 0.035);
+border-radius: 25px;
+}
+
+
+.excerption p {
+display: inline-block;
+margin: 24px;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+}
+
+.excerption__text {
+position: relative;
+min-height: 200px;
+}
+
+.excerption__text img {
+position: absolute;
+z-index: -1;
+bottom: 80px;
+right: 50px;
+max-width: 150px;
+height: auto;
+}
